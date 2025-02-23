@@ -5,3 +5,4 @@
 # Steps from Guide
 
 1. Scenes and nodes [branch](https://github.com/Smoliarick/godot-shooter/tree/1-scenes-and-nodes); [video timecode](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=602s).
+2. Working with code [branch](https://github.com/Smoliarick/godot-shooter/tree/2-working-with-code); [video timecode](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=2193s).
