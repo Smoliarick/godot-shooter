@@ -14,6 +14,9 @@ func _ready() -> void:
 	
 	test_scale = 2
 	scale = Vector2(test_scale, test_scale)
+	
+	print($"..".position) # use parent node
+	$"..".test_function() # use function from parent node
 
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
