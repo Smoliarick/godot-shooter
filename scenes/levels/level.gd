@@ -12,11 +12,7 @@ func _ready() -> void:
 	print(test_array[0]) # access by index
 
 func _process(delta: float) -> void:
-	$Logo.rotation_degrees += 0.1
-	
-	# flow -> if rotation > 180 -> 0
-	if $Logo.rotation_degrees > 180:
-		$Logo.rotation_degrees = 0
+	$Logo.rotation_degrees += 100 * delta
 		
-	if $Logo.pos.x > 1000:
+	if $Logo.position.x > 1000:
 		$Logo.pos.x = 0
