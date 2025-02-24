@@ -10,6 +10,7 @@ func _ready() -> void:
 		print(i)
 		
 	print(test_array[0]) # access by index
+	print(%Target) # use unique name for node
 
 func _process(delta: float) -> void:
 	$Logo.rotation_degrees += 100 * delta
@@ -18,3 +19,6 @@ func _process(delta: float) -> void:
 		$Logo.pos.x = 0
 		
 	#print(Input.is_action_pressed("left"))
+
+func test_function():
+	print("this is a test function")
