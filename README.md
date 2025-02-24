@@ -10,3 +10,4 @@
 4. ["Getting input"](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=4894s) step [branch](https://github.com/Smoliarick/godot-shooter/tree/4-getting-input)
 5. ["More on nodes"](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=5918s) step [branch](https://github.com/Smoliarick/godot-shooter/tree/5-more-on-nodes)
 6. ["Physics"](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=6535s) step [branch](https://github.com/Smoliarick/godot-shooter/tree/6-physics)
+7. ["Signals (+Area)"](https://www.youtube.com/watch?v=nAh_Kx5Zh5Q&t=8123s) step [branch](https://github.com/Smoliarick/godot-shooter/tree/7-signals-and-area)
