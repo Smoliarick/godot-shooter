@@ -1,24 +1,7 @@
 extends Node2D
 
-var test_array: Array[String] = ["Test", 'Hello', "Stuff"]
-
 func _ready() -> void:
-	$Logo.rotation_degrees = 90
-	
-	# print elements of array
-	for i in test_array:
-		print(i)
-		
-	print(test_array[0]) # access by index
-	print(%Target) # use unique name for node
+	pass
 
-func _process(delta: float) -> void:
-	$Logo.rotation_degrees += 100 * delta
-		
-	if $Logo.position.x > 1000:
-		$Logo.pos.x = 0
-		
-	#print(Input.is_action_pressed("left"))
-
-func test_function():
-	print("this is a test function")
+func _process(_delta: float) -> void:
+	pass
